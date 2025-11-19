@@ -1,0 +1,31 @@
+class Solution {
+public:
+    bool isAnagram(string s, string t) {
+
+        if( s.length() != t.length() ) {
+            return false;
+        }
+
+        unordered_map<int,int>mp;
+       
+        for( auto &it: s ) {
+            mp[it]++;
+        }
+
+        for( auto &it: t ) {
+            if( mp.count(it) ) {
+
+                mp[it]--;
+                if(mp[it] == 0 ){
+                    mp.erase(it);
+                }
+
+            }
+            else{
+                return false;
+            }
+        }
+        
+        return true;
+    }
+};
