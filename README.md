@@ -10,6 +10,7 @@ Just me trying to make living..
 | [0014-longest-common-prefix](https://github.com/friday-dev-com/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/friday-dev-com/LeetCode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/friday-dev-com/LeetCode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/friday-dev-com/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/friday-dev-com/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/friday-dev-com/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/friday-dev-com/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -25,6 +26,7 @@ Just me trying to make living..
 | ------- |
 | [0001-two-sum](https://github.com/friday-dev-com/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/friday-dev-com/LeetCode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/friday-dev-com/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/friday-dev-com/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/friday-dev-com/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/friday-dev-com/LeetCode/tree/master/0242-valid-anagram) |
@@ -90,4 +92,8 @@ Just me trying to make living..
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/friday-dev-com/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/friday-dev-com/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
