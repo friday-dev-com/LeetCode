@@ -12,6 +12,7 @@ Just me trying to make living..
 | [0049-group-anagrams](https://github.com/friday-dev-com/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/friday-dev-com/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/friday-dev-com/LeetCode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/friday-dev-com/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/friday-dev-com/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0816-design-hashset](https://github.com/friday-dev-com/LeetCode/tree/master/0816-design-hashset) |
 | [2058-concatenation-of-array](https://github.com/friday-dev-com/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -85,4 +86,8 @@ Just me trying to make living..
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/friday-dev-com/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/friday-dev-com/LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
