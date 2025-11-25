@@ -14,8 +14,8 @@ public:
             ans += word2[s2++];
         }
 
-        if ( s1<e1 ) ans += word1.substr(s1,e1);
-        if ( s2<e2 ) ans += word2.substr(s2,e2);
+        if ( s1<e1 ) ans += word1.substr(s1);
+        if ( s2<e2 ) ans += word2.substr(s2);
 
         return ans;
     }
