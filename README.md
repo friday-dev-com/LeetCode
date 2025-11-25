@@ -14,6 +14,7 @@ Just me trying to make living..
 | [0049-group-anagrams](https://github.com/friday-dev-com/LeetCode/tree/master/0049-group-anagrams) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/friday-dev-com/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/friday-dev-com/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/friday-dev-com/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/friday-dev-com/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/friday-dev-com/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/friday-dev-com/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -66,6 +67,7 @@ Just me trying to make living..
 | [0018-4sum](https://github.com/friday-dev-com/LeetCode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/friday-dev-com/LeetCode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/friday-dev-com/LeetCode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/friday-dev-com/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/friday-dev-com/LeetCode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/friday-dev-com/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1768-merge-strings-alternately](https://github.com/friday-dev-com/LeetCode/tree/master/1768-merge-strings-alternately) |
@@ -120,4 +122,8 @@ Just me trying to make living..
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/friday-dev-com/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0680-valid-palindrome-ii](https://github.com/friday-dev-com/LeetCode/tree/master/0680-valid-palindrome-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/friday-dev-com/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
