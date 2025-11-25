@@ -47,6 +47,7 @@ Just me trying to make living..
 | [0014-longest-common-prefix](https://github.com/friday-dev-com/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/friday-dev-com/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/friday-dev-com/LeetCode/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/friday-dev-com/LeetCode/tree/master/0344-reverse-string) |
 ## Trie
 |  |
 | ------- |
@@ -55,6 +56,7 @@ Just me trying to make living..
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/friday-dev-com/LeetCode/tree/master/0027-remove-element) |
+| [0344-reverse-string](https://github.com/friday-dev-com/LeetCode/tree/master/0344-reverse-string) |
 ## Divide and Conquer
 |  |
 | ------- |
