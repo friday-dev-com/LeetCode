@@ -1,9 +1,7 @@
 class Solution {
 public:
     int findComplement(int n) {
-        if ( n == 0 ){
-            return 1;
-        }
+        
         int val = n ;
         int mask = 0;
 
