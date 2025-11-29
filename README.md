@@ -132,4 +132,8 @@ Just me trying to make living..
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/friday-dev-com/LeetCode/tree/master/0191-number-of-1-bits) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/friday-dev-com/LeetCode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
