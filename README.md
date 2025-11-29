@@ -132,6 +132,7 @@ Just me trying to make living..
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/friday-dev-com/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0476-number-complement](https://github.com/friday-dev-com/LeetCode/tree/master/0476-number-complement) |
 | [1009-complement-of-base-10-integer](https://github.com/friday-dev-com/LeetCode/tree/master/1009-complement-of-base-10-integer) |
 ## Math
 |  |
