@@ -19,6 +19,7 @@ Just me trying to make living..
 | [0217-contains-duplicate](https://github.com/friday-dev-com/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/friday-dev-com/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/friday-dev-com/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0645-set-mismatch](https://github.com/friday-dev-com/LeetCode/tree/master/0645-set-mismatch) |
 | [0816-design-hashset](https://github.com/friday-dev-com/LeetCode/tree/master/0816-design-hashset) |
 | [2058-concatenation-of-array](https://github.com/friday-dev-com/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Simulation
@@ -35,6 +36,7 @@ Just me trying to make living..
 | [0217-contains-duplicate](https://github.com/friday-dev-com/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/friday-dev-com/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/friday-dev-com/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0645-set-mismatch](https://github.com/friday-dev-com/LeetCode/tree/master/0645-set-mismatch) |
 | [0816-design-hashset](https://github.com/friday-dev-com/LeetCode/tree/master/0816-design-hashset) |
 ## Sorting
 |  |
@@ -46,6 +48,7 @@ Just me trying to make living..
 | [0217-contains-duplicate](https://github.com/friday-dev-com/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/friday-dev-com/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/friday-dev-com/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0645-set-mismatch](https://github.com/friday-dev-com/LeetCode/tree/master/0645-set-mismatch) |
 ## String
 |  |
 | ------- |
@@ -133,6 +136,7 @@ Just me trying to make living..
 | ------- |
 | [0191-number-of-1-bits](https://github.com/friday-dev-com/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0476-number-complement](https://github.com/friday-dev-com/LeetCode/tree/master/0476-number-complement) |
+| [0645-set-mismatch](https://github.com/friday-dev-com/LeetCode/tree/master/0645-set-mismatch) |
 | [1009-complement-of-base-10-integer](https://github.com/friday-dev-com/LeetCode/tree/master/1009-complement-of-base-10-integer) |
 ## Math
 |  |
