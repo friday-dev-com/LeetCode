@@ -19,6 +19,7 @@ Just me trying to make living..
 | [0217-contains-duplicate](https://github.com/friday-dev-com/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/friday-dev-com/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/friday-dev-com/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/friday-dev-com/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/friday-dev-com/LeetCode/tree/master/0645-set-mismatch) |
 | [0816-design-hashset](https://github.com/friday-dev-com/LeetCode/tree/master/0816-design-hashset) |
 | [2058-concatenation-of-array](https://github.com/friday-dev-com/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -36,6 +37,7 @@ Just me trying to make living..
 | [0217-contains-duplicate](https://github.com/friday-dev-com/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/friday-dev-com/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/friday-dev-com/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/friday-dev-com/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/friday-dev-com/LeetCode/tree/master/0645-set-mismatch) |
 | [0816-design-hashset](https://github.com/friday-dev-com/LeetCode/tree/master/0816-design-hashset) |
 ## Sorting
