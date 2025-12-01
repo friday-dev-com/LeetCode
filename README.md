@@ -10,6 +10,7 @@ Just me trying to make living..
 | [0014-longest-common-prefix](https://github.com/friday-dev-com/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/friday-dev-com/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/friday-dev-com/LeetCode/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/friday-dev-com/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/friday-dev-com/LeetCode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/friday-dev-com/LeetCode/tree/master/0049-group-anagrams) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/friday-dev-com/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -73,6 +74,7 @@ Just me trying to make living..
 | ------- |
 | [0015-3sum](https://github.com/friday-dev-com/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/friday-dev-com/LeetCode/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/friday-dev-com/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/friday-dev-com/LeetCode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/friday-dev-com/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/friday-dev-com/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
