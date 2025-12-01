@@ -23,6 +23,7 @@ Just me trying to make living..
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/friday-dev-com/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/friday-dev-com/LeetCode/tree/master/0645-set-mismatch) |
 | [0816-design-hashset](https://github.com/friday-dev-com/LeetCode/tree/master/0816-design-hashset) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/friday-dev-com/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2058-concatenation-of-array](https://github.com/friday-dev-com/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Simulation
 |  |
