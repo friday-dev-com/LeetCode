@@ -60,6 +60,7 @@ Just me trying to make living..
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/friday-dev-com/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/friday-dev-com/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/friday-dev-com/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/friday-dev-com/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/friday-dev-com/LeetCode/tree/master/0242-valid-anagram) |
@@ -155,4 +156,8 @@ Just me trying to make living..
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/friday-dev-com/LeetCode/tree/master/0007-reverse-integer) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/friday-dev-com/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
