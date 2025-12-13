@@ -1,14 +1,26 @@
 class Solution {
 public:
     bool canMakeArithmeticProgression(vector<int>& arr) {
+
         int n = arr.size();
-        sort(arr.begin(),arr.end());
 
-        int val = abs(arr[1] - arr[0]);
+        int a = arr[0];
+        int b = arr[0];
 
+        for(auto it : arr){
+            a = min(it,a);
+            b = max(it,b); 
+        }
 
-        for(int i = 2 ; i < n; i++ ) {
-            if( arr[i] - arr[i-1] != val ){
+        if ((b - a) % (n - 1) != 0) return false;
+
+        int d = ((b-a)/(n-1));
+
+        unordered_set<int>mp(arr.begin(),arr.end());
+
+        for( int i = 0; i<n; i++ ){
+            int val = a + (i) * d;
+            if(mp.find(val) == mp.end()){
                 return false;
             }
         }
