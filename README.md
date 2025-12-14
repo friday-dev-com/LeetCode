@@ -158,6 +158,7 @@ Just me trying to make living..
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/friday-dev-com/LeetCode/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/friday-dev-com/LeetCode/tree/master/0009-palindrome-number) |
 ## Stack
 |  |
 | ------- |
