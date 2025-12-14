@@ -63,6 +63,7 @@ Just me trying to make living..
 | ------- |
 | [0014-longest-common-prefix](https://github.com/friday-dev-com/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/friday-dev-com/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/friday-dev-com/LeetCode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/friday-dev-com/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/friday-dev-com/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/friday-dev-com/LeetCode/tree/master/0242-valid-anagram) |
@@ -134,6 +135,7 @@ Just me trying to make living..
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/friday-dev-com/LeetCode/tree/master/0022-generate-parentheses) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/friday-dev-com/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Greedy
 |  |
@@ -163,4 +165,8 @@ Just me trying to make living..
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/friday-dev-com/LeetCode/tree/master/0020-valid-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/friday-dev-com/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
