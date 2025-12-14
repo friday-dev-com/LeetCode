@@ -4,24 +4,37 @@ public:
 
         int n = arr.size();
 
-        int a = arr[0];
-        int b = arr[0];
+        int a = INT_MAX;
+        int b = INT_MIN;
 
         for(auto it : arr){
             a = min(it,a);
             b = max(it,b); 
         }
+        if (b == a) return true;
 
-        if ((b - a) % (n - 1) != 0) return false;
+        if ( (b-a)%(n-1) != 0 ){
+            return false;
+        }
+        int d = (b - a)/ (n-1);
 
-        int d = ((b-a)/(n-1));
+        int i = 0;
+        while ( i < n ){
+            int val = arr[i];
+            if ( val == a + i * d){
+                i++;
+            }
+            else{
+                if ( ((val - a)%d) != 0 ){
+                    return false;
+                }
+                int index = (val - a)/d;
 
-        unordered_set<int>mp(arr.begin(),arr.end());
+                if ( val == arr[index]) {
+                    return false;
+                }
+                swap(arr[i],arr[index]);
 
-        for( int i = 0; i<n; i++ ){
-            int val = a + (i) * d;
-            if(mp.find(val) == mp.end()){
-                return false;
             }
         }
         return true;
