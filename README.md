@@ -12,6 +12,7 @@ Just me trying to make living..
 | [0018-4sum](https://github.com/friday-dev-com/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/friday-dev-com/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/friday-dev-com/LeetCode/tree/master/0027-remove-element) |
+| [0040-combination-sum-ii](https://github.com/friday-dev-com/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/friday-dev-com/LeetCode/tree/master/0049-group-anagrams) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/friday-dev-com/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/friday-dev-com/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -169,4 +170,5 @@ Just me trying to make living..
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/friday-dev-com/LeetCode/tree/master/0022-generate-parentheses) |
+| [0040-combination-sum-ii](https://github.com/friday-dev-com/LeetCode/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
