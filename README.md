@@ -61,6 +61,7 @@ Just me trying to make living..
 | [0347-top-k-frequent-elements](https://github.com/friday-dev-com/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/friday-dev-com/LeetCode/tree/master/0645-set-mismatch) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/friday-dev-com/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1859-sorting-the-sentence](https://github.com/friday-dev-com/LeetCode/tree/master/1859-sorting-the-sentence) |
 ## String
 |  |
 | ------- |
@@ -75,6 +76,7 @@ Just me trying to make living..
 | [0551-student-attendance-record-i](https://github.com/friday-dev-com/LeetCode/tree/master/0551-student-attendance-record-i) |
 | [0680-valid-palindrome-ii](https://github.com/friday-dev-com/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1768-merge-strings-alternately](https://github.com/friday-dev-com/LeetCode/tree/master/1768-merge-strings-alternately) |
+| [1859-sorting-the-sentence](https://github.com/friday-dev-com/LeetCode/tree/master/1859-sorting-the-sentence) |
 ## Trie
 |  |
 | ------- |
