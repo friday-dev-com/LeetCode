@@ -63,6 +63,7 @@ Just me trying to make living..
 | [0645-set-mismatch](https://github.com/friday-dev-com/LeetCode/tree/master/0645-set-mismatch) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/friday-dev-com/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1859-sorting-the-sentence](https://github.com/friday-dev-com/LeetCode/tree/master/1859-sorting-the-sentence) |
+| [2785-sort-vowels-in-a-string](https://github.com/friday-dev-com/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -80,6 +81,7 @@ Just me trying to make living..
 | [1108-defanging-an-ip-address](https://github.com/friday-dev-com/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1768-merge-strings-alternately](https://github.com/friday-dev-com/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1859-sorting-the-sentence](https://github.com/friday-dev-com/LeetCode/tree/master/1859-sorting-the-sentence) |
+| [2785-sort-vowels-in-a-string](https://github.com/friday-dev-com/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
 ## Trie
 |  |
 | ------- |
