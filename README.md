@@ -34,6 +34,7 @@ Just me trying to make living..
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/friday-dev-com/LeetCode/tree/master/0415-add-strings) |
 | [2058-concatenation-of-array](https://github.com/friday-dev-com/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -73,6 +74,7 @@ Just me trying to make living..
 | [0242-valid-anagram](https://github.com/friday-dev-com/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/friday-dev-com/LeetCode/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/friday-dev-com/LeetCode/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/friday-dev-com/LeetCode/tree/master/0415-add-strings) |
 | [0551-student-attendance-record-i](https://github.com/friday-dev-com/LeetCode/tree/master/0551-student-attendance-record-i) |
 | [0680-valid-palindrome-ii](https://github.com/friday-dev-com/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1108-defanging-an-ip-address](https://github.com/friday-dev-com/LeetCode/tree/master/1108-defanging-an-ip-address) |
@@ -169,6 +171,7 @@ Just me trying to make living..
 | ------- |
 | [0007-reverse-integer](https://github.com/friday-dev-com/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/friday-dev-com/LeetCode/tree/master/0009-palindrome-number) |
+| [0415-add-strings](https://github.com/friday-dev-com/LeetCode/tree/master/0415-add-strings) |
 ## Stack
 |  |
 | ------- |
