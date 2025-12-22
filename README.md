@@ -25,6 +25,7 @@ Just me trying to make living..
 | [0283-move-zeroes](https://github.com/friday-dev-com/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/friday-dev-com/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/friday-dev-com/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/friday-dev-com/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/friday-dev-com/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/friday-dev-com/LeetCode/tree/master/0645-set-mismatch) |
 | [0816-design-hashset](https://github.com/friday-dev-com/LeetCode/tree/master/0816-design-hashset) |
@@ -47,6 +48,7 @@ Just me trying to make living..
 | [0242-valid-anagram](https://github.com/friday-dev-com/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/friday-dev-com/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/friday-dev-com/LeetCode/tree/master/0409-longest-palindrome) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/friday-dev-com/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/friday-dev-com/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/friday-dev-com/LeetCode/tree/master/0645-set-mismatch) |
 | [0816-design-hashset](https://github.com/friday-dev-com/LeetCode/tree/master/0816-design-hashset) |
@@ -60,6 +62,7 @@ Just me trying to make living..
 | [0217-contains-duplicate](https://github.com/friday-dev-com/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/friday-dev-com/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/friday-dev-com/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/friday-dev-com/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/friday-dev-com/LeetCode/tree/master/0645-set-mismatch) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/friday-dev-com/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1859-sorting-the-sentence](https://github.com/friday-dev-com/LeetCode/tree/master/1859-sorting-the-sentence) |
