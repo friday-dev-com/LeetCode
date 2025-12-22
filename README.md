@@ -13,6 +13,7 @@ Just me trying to make living..
 | [0026-remove-duplicates-from-sorted-array](https://github.com/friday-dev-com/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/friday-dev-com/LeetCode/tree/master/0027-remove-element) |
 | [0040-combination-sum-ii](https://github.com/friday-dev-com/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/friday-dev-com/LeetCode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/friday-dev-com/LeetCode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/friday-dev-com/LeetCode/tree/master/0049-group-anagrams) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/friday-dev-com/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -42,6 +43,7 @@ Just me trying to make living..
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/friday-dev-com/LeetCode/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/friday-dev-com/LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/friday-dev-com/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/friday-dev-com/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/friday-dev-com/LeetCode/tree/master/0169-majority-element) |
