@@ -3,28 +3,25 @@ public:
     vector<int> findErrorNums(vector<int>& nums) {
         int n = nums.size();
 
-        vector<int>ans;
+        vector<int>ans(2);
+        for ( int i = 0; i < n; i++ ){
+            int index = abs(nums[i])-1;
 
-        int loss = 0;
-        int dub ;
-
-        for ( int i = 0 ; i < n ; i++ ) {
-            loss = ((loss ^ (i+1)) ^ abs(nums[i]));
-            
-
-            int index = abs(nums[i]) - 1;
-            int val = nums[index];
-            if( val < 0 ){
-                dub = abs(nums[i]);
+            if( nums[index] > 0 ){
+                nums[index] *= -1;
             }
+
             else{
-                nums[index] = nums[index] * -1;
+                ans[0] = nums[i];
             }
         }
-        loss = loss ^ dub;
 
-        ans.emplace_back(dub);
-        ans.emplace_back(loss);
+        for( int i = 0 ; i < n ;i++){
+            if(nums[i] > 0){
+                ans[1] = nums[i]+1;
+                break;
+            }
+        }
         return ans;
     }
 };
