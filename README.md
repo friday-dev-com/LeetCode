@@ -43,6 +43,7 @@ Just me trying to make living..
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/friday-dev-com/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/friday-dev-com/LeetCode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/friday-dev-com/LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/friday-dev-com/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/friday-dev-com/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -75,6 +76,7 @@ Just me trying to make living..
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/friday-dev-com/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/friday-dev-com/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/friday-dev-com/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/friday-dev-com/LeetCode/tree/master/0022-generate-parentheses) |
@@ -181,6 +183,7 @@ Just me trying to make living..
 | ------- |
 | [0007-reverse-integer](https://github.com/friday-dev-com/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/friday-dev-com/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/friday-dev-com/LeetCode/tree/master/0013-roman-to-integer) |
 | [0415-add-strings](https://github.com/friday-dev-com/LeetCode/tree/master/0415-add-strings) |
 ## Stack
 |  |
