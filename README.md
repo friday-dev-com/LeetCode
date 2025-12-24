@@ -43,6 +43,7 @@ Just me trying to make living..
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/friday-dev-com/LeetCode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/friday-dev-com/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/friday-dev-com/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/friday-dev-com/LeetCode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/friday-dev-com/LeetCode/tree/master/0041-first-missing-positive) |
@@ -77,6 +78,7 @@ Just me trying to make living..
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/friday-dev-com/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/friday-dev-com/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/friday-dev-com/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/friday-dev-com/LeetCode/tree/master/0014-longest-common-prefix) |
@@ -198,4 +200,8 @@ Just me trying to make living..
 | [0022-generate-parentheses](https://github.com/friday-dev-com/LeetCode/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/friday-dev-com/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/friday-dev-com/LeetCode/tree/master/0046-permutations) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/friday-dev-com/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
