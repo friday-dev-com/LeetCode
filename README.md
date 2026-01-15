@@ -21,6 +21,7 @@ Just me trying to make living..
 | [0136-single-number](https://github.com/friday-dev-com/LeetCode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/friday-dev-com/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/friday-dev-com/LeetCode/tree/master/0169-majority-element) |
+| [0216-combination-sum-iii](https://github.com/friday-dev-com/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/friday-dev-com/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/friday-dev-com/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/friday-dev-com/LeetCode/tree/master/0283-move-zeroes) |
@@ -208,6 +209,7 @@ Just me trying to make living..
 | [0022-generate-parentheses](https://github.com/friday-dev-com/LeetCode/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/friday-dev-com/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/friday-dev-com/LeetCode/tree/master/0046-permutations) |
+| [0216-combination-sum-iii](https://github.com/friday-dev-com/LeetCode/tree/master/0216-combination-sum-iii) |
 ## Sliding Window
 |  |
 | ------- |
