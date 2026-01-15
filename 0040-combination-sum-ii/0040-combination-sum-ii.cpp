@@ -1,30 +1,44 @@
 class Solution {
 public:
-    void solve(vector<int>& arr, int t, vector<vector<int>>&ans, vector<int>sol, int i){
+    void solve(vector<int>& candidates, vector<vector<int>>&ans, vector<int>&sol, int sum, int i)
+    {
 
-        if(t == 0){
+        if(sum == 0){
             ans.push_back(sol);
             return;
         }
 
-        for ( int index = i; index < arr.size(); index++){
-            if(arr[index] > t){
+        if( i == candidates.size())
+        {
+            return;
+        }
+
+
+        for(int index = i; index < candidates.size(); index++)
+        {
+            int val = candidates[index];
+
+            if( val > sum)
+            {
                 break;
             }
-            if( index > i && arr[index] == arr[index-1]){
+
+            if( index > i && candidates[index-1] == candidates[index])
+            {
                 continue;
             }
-            sol.push_back(arr[index]);
-            solve(arr,t-arr[index],ans,sol,index+1);
+            sol.push_back(val);
+            solve(candidates, ans, sol, sum-val, index+1);
             sol.pop_back();
         }
-    
     }
     vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
         sort(candidates.begin(),candidates.end());
         vector<vector<int>>ans;
         vector<int>sol;
-        solve(candidates,target,ans,sol,0);
+
+        solve(candidates, ans, sol, target, 0);
+
         return ans;
     }
 };
