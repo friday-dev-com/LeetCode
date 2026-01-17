@@ -88,6 +88,7 @@ Just me trying to make living..
 | [0022-generate-parentheses](https://github.com/friday-dev-com/LeetCode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/friday-dev-com/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/friday-dev-com/LeetCode/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/friday-dev-com/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/friday-dev-com/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/friday-dev-com/LeetCode/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/friday-dev-com/LeetCode/tree/master/0409-longest-palindrome) |
@@ -170,6 +171,7 @@ Just me trying to make living..
 | ------- |
 | [0022-generate-parentheses](https://github.com/friday-dev-com/LeetCode/tree/master/0022-generate-parentheses) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/friday-dev-com/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/friday-dev-com/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Greedy
 |  |
 | ------- |
@@ -209,6 +211,7 @@ Just me trying to make living..
 | [0022-generate-parentheses](https://github.com/friday-dev-com/LeetCode/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/friday-dev-com/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/friday-dev-com/LeetCode/tree/master/0046-permutations) |
+| [0131-palindrome-partitioning](https://github.com/friday-dev-com/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/friday-dev-com/LeetCode/tree/master/0216-combination-sum-iii) |
 ## Sliding Window
 |  |
