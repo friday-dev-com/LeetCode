@@ -16,6 +16,7 @@ Just me trying to make living..
 | [0041-first-missing-positive](https://github.com/friday-dev-com/LeetCode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/friday-dev-com/LeetCode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/friday-dev-com/LeetCode/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/friday-dev-com/LeetCode/tree/master/0079-word-search) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/friday-dev-com/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/friday-dev-com/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/friday-dev-com/LeetCode/tree/master/0136-single-number) |
@@ -87,6 +88,7 @@ Just me trying to make living..
 | [0020-valid-parentheses](https://github.com/friday-dev-com/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/friday-dev-com/LeetCode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/friday-dev-com/LeetCode/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/friday-dev-com/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/friday-dev-com/LeetCode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/friday-dev-com/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/friday-dev-com/LeetCode/tree/master/0242-valid-anagram) |
@@ -211,6 +213,7 @@ Just me trying to make living..
 | [0022-generate-parentheses](https://github.com/friday-dev-com/LeetCode/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/friday-dev-com/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/friday-dev-com/LeetCode/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/friday-dev-com/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/friday-dev-com/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/friday-dev-com/LeetCode/tree/master/0216-combination-sum-iii) |
 ## Sliding Window
@@ -221,4 +224,12 @@ Just me trying to make living..
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/friday-dev-com/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/friday-dev-com/LeetCode/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/friday-dev-com/LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
