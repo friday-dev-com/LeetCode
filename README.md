@@ -215,6 +215,7 @@ Just me trying to make living..
 | [0040-combination-sum-ii](https://github.com/friday-dev-com/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/friday-dev-com/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/friday-dev-com/LeetCode/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/friday-dev-com/LeetCode/tree/master/0052-n-queens-ii) |
 | [0079-word-search](https://github.com/friday-dev-com/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/friday-dev-com/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/friday-dev-com/LeetCode/tree/master/0216-combination-sum-iii) |
