@@ -194,6 +194,7 @@ Just me trying to make living..
 | [0287-find-the-duplicate-number](https://github.com/friday-dev-com/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/friday-dev-com/LeetCode/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/friday-dev-com/LeetCode/tree/master/0645-set-mismatch) |
+| [0779-k-th-symbol-in-grammar](https://github.com/friday-dev-com/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1009-complement-of-base-10-integer](https://github.com/friday-dev-com/LeetCode/tree/master/1009-complement-of-base-10-integer) |
 ## Math
 |  |
@@ -203,6 +204,7 @@ Just me trying to make living..
 | [0012-integer-to-roman](https://github.com/friday-dev-com/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/friday-dev-com/LeetCode/tree/master/0013-roman-to-integer) |
 | [0415-add-strings](https://github.com/friday-dev-com/LeetCode/tree/master/0415-add-strings) |
+| [0779-k-th-symbol-in-grammar](https://github.com/friday-dev-com/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Stack
 |  |
 | ------- |
@@ -227,6 +229,7 @@ Just me trying to make living..
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/friday-dev-com/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0779-k-th-symbol-in-grammar](https://github.com/friday-dev-com/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Depth-First Search
 |  |
 | ------- |
