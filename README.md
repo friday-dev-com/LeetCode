@@ -36,6 +36,7 @@ Just me trying to make living..
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/friday-dev-com/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/friday-dev-com/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2058-concatenation-of-array](https://github.com/friday-dev-com/LeetCode/tree/master/2058-concatenation-of-array) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/friday-dev-com/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3731-find-missing-elements](https://github.com/friday-dev-com/LeetCode/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
@@ -78,6 +79,7 @@ Just me trying to make living..
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/friday-dev-com/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1859-sorting-the-sentence](https://github.com/friday-dev-com/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [2785-sort-vowels-in-a-string](https://github.com/friday-dev-com/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/friday-dev-com/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3731-find-missing-elements](https://github.com/friday-dev-com/LeetCode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -238,4 +240,8 @@ Just me trying to make living..
 |  |
 | ------- |
 | [0079-word-search](https://github.com/friday-dev-com/LeetCode/tree/master/0079-word-search) |
+## Enumeration
+|  |
+| ------- |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/friday-dev-com/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 <!---LeetCode Topics End-->
