@@ -151,6 +151,7 @@ Just me trying to make living..
 ## Hash Function
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/friday-dev-com/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0816-design-hashset](https://github.com/friday-dev-com/LeetCode/tree/master/0816-design-hashset) |
 ## Heap (Priority Queue)
 |  |
@@ -239,6 +240,7 @@ Just me trying to make living..
 |  |
 | ------- |
 | [0079-word-search](https://github.com/friday-dev-com/LeetCode/tree/master/0079-word-search) |
+| [0572-subtree-of-another-tree](https://github.com/friday-dev-com/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -247,4 +249,16 @@ Just me trying to make living..
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/friday-dev-com/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+## Tree
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/friday-dev-com/LeetCode/tree/master/0572-subtree-of-another-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/friday-dev-com/LeetCode/tree/master/0572-subtree-of-another-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/friday-dev-com/LeetCode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
