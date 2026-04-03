@@ -241,6 +241,7 @@ Just me trying to make living..
 | ------- |
 | [0079-word-search](https://github.com/friday-dev-com/LeetCode/tree/master/0079-word-search) |
 | [0110-balanced-binary-tree](https://github.com/friday-dev-com/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/friday-dev-com/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0572-subtree-of-another-tree](https://github.com/friday-dev-com/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Matrix
 |  |
@@ -254,6 +255,7 @@ Just me trying to make living..
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/friday-dev-com/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/friday-dev-com/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0572-subtree-of-another-tree](https://github.com/friday-dev-com/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
 |  |
@@ -263,5 +265,10 @@ Just me trying to make living..
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/friday-dev-com/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/friday-dev-com/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0572-subtree-of-another-tree](https://github.com/friday-dev-com/LeetCode/tree/master/0572-subtree-of-another-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/friday-dev-com/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
