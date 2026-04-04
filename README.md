@@ -95,6 +95,7 @@ Just me trying to make living..
 | [0125-valid-palindrome](https://github.com/friday-dev-com/LeetCode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/friday-dev-com/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/friday-dev-com/LeetCode/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/friday-dev-com/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/friday-dev-com/LeetCode/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/friday-dev-com/LeetCode/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/friday-dev-com/LeetCode/tree/master/0415-add-strings) |
@@ -226,6 +227,7 @@ Just me trying to make living..
 | [0079-word-search](https://github.com/friday-dev-com/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/friday-dev-com/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/friday-dev-com/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/friday-dev-com/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0784-letter-case-permutation](https://github.com/friday-dev-com/LeetCode/tree/master/0784-letter-case-permutation) |
 ## Sliding Window
 |  |
@@ -242,6 +244,7 @@ Just me trying to make living..
 | [0079-word-search](https://github.com/friday-dev-com/LeetCode/tree/master/0079-word-search) |
 | [0110-balanced-binary-tree](https://github.com/friday-dev-com/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/friday-dev-com/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/friday-dev-com/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/friday-dev-com/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Matrix
 |  |
@@ -256,6 +259,7 @@ Just me trying to make living..
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/friday-dev-com/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/friday-dev-com/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/friday-dev-com/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/friday-dev-com/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
 |  |
@@ -266,6 +270,7 @@ Just me trying to make living..
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/friday-dev-com/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/friday-dev-com/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/friday-dev-com/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/friday-dev-com/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
