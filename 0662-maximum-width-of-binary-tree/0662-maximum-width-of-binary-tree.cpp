@@ -46,7 +46,6 @@ public:
                    
                 }
 
-                maxLength = max(maxLength, (maxIndex - minIndex) + 1);
 
                 if( temp->left ) {
                     q.push( {temp->left, 2 * (index ) });
@@ -59,7 +58,7 @@ public:
 
             }
 
-    
+            maxLength = max(maxLength, (maxIndex - minIndex) + 1);
             
         }
         return maxLength;
