@@ -16,7 +16,7 @@ public:
         if( root == NULL ) {
             return 0;
         }
-        queue<pair<TreeNode*,long long>> q;
+        queue<pair<TreeNode*,uint>> q;
 
         q.push({root,0});
 
@@ -35,6 +35,7 @@ public:
 
                 TreeNode* temp = it.first;
                 long long index = it.second;
+                cout << index << endl;
 
                 if( i == 0 ) {
                     minIndex = index;
@@ -42,19 +43,23 @@ public:
 
                 if( i == n-1 ) {
                     maxIndex = index;
+                   
                 }
 
+                maxLength = max(maxLength, (maxIndex - minIndex) + 1);
+
                 if( temp->left ) {
-                    q.push( {temp->left, 2 * (index - minIndex) });
+                    q.push( {temp->left, 2 * (index ) });
                 }
 
                 if( temp->right ) {
-                    q.push( {temp->right, 2 * (index - minIndex) + 1});
+                    q.push( {temp->right, 2 * (index ) + 1});
                 }
+                
 
             }
 
-            maxLength = max(maxLength, (maxIndex - minIndex) + 1);
+    
             
         }
         return maxLength;
