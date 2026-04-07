@@ -263,6 +263,7 @@ Just me trying to make living..
 | [0257-binary-tree-paths](https://github.com/friday-dev-com/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/friday-dev-com/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/friday-dev-com/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/friday-dev-com/LeetCode/tree/master/2236-root-equals-sum-of-children) |
 ## String Matching
 |  |
 | ------- |
@@ -275,6 +276,7 @@ Just me trying to make living..
 | [0257-binary-tree-paths](https://github.com/friday-dev-com/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/friday-dev-com/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/friday-dev-com/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/friday-dev-com/LeetCode/tree/master/2236-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
 | ------- |
