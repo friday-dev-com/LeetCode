@@ -28,10 +28,6 @@ public:
             long long minIndex = 0;
             long long maxIndex = 0;
 
-            minIndex = q.front().second;
-            maxIndex = q.back().second;
-            maxLength = max( maxLength, (maxIndex - minIndex) + 1);
-
             for( int i = 0; i < n; i++) {
 
                 auto it = q.front();
@@ -39,6 +35,14 @@ public:
 
                 TreeNode* temp = it.first;
                 long long index = it.second;
+
+                if( i == 0 ) {
+                    minIndex = index;
+                }
+
+                if( i == n-1 ) {
+                    maxIndex = index;
+                }
 
                 if( temp->left ) {
                     q.push( {temp->left, 2 * (index - minIndex) });
@@ -49,6 +53,9 @@ public:
                 }
 
             }
+
+            maxLength = max(maxLength, (maxIndex - minIndex) + 1);
+            
         }
         return maxLength;
 
